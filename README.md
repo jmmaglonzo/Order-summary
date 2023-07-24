@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/jmmaglonzo/Order-summary-Frontend-Mentor)
+- Live Site URL: [Netlify](https://lonzo-ordersummary.netlify.app/)
 
 ### Built with
 
